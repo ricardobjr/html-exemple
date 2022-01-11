@@ -8,5 +8,5 @@
 
   1️⃣ Clone the repository on your computer.<br>
   2️⃣ Click on the "index.html" file.<br>
-  3️⃣ You will be able to navigate between the project pages through the links located in the upper right corner: "Home", "Quem somos" and "Contato".<br>
+  3️⃣ You will be able to navigate between the project pages through the links located in the upper right corner: "Home", "Biografia", "Campanhas Publicitárias" and "Contato".<br>
 
