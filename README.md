@@ -10,3 +10,5 @@
   2️⃣ Click on the "index.html" file.<br>
   3️⃣ You will be able to navigate between the project pages through the links located in the upper right corner: "Home", "Biografia", "Campanhas Publicitárias" and "Contato".<br>
 
+
+## The project was developed based on what was taught within Udemy's "Desenvolvimento Completo Web" course.
